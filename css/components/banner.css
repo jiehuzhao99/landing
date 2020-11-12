@@ -1,0 +1,30 @@
+.banner{
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  display: flex;
+  align-items: center;
+}
+
+.banner .container{
+  padding: 100px;
+}
+
+.banner h1{
+  color: white;
+  font-weight: bold;
+}
+
+.banner p{
+  color: #B2B3B3;
+  font-size: 15pt;
+}
+
+.banner a{
+  color: white;
+  background-color: #1BDD87;
+  padding: 16px 32px;
+  border-radius: 30px;
+  line-height: 50px;
+}
