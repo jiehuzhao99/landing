@@ -25,3 +25,9 @@
   margin-top: 20px;
   color: #B2B3B3;
 }
+
+@media (max-width: 700px){
+  .cards {
+    display: block;
+  }
+}
